@@ -45,11 +45,12 @@ discord:                            || GoodOk#6975
 ##**Professional Skills:**##
 
 *js basics
-            ```
-            function multiply(a, b){
-                return a*b;
-            }
-            ```
+
+               ```
+               function multiply(a, b){
+                   return a*b;
+               }
+               ```
 
 
 ##**EDUCATION-Institution**##   ||    ##**Year of Graduation/City/Country**##
