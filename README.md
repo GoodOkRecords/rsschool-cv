@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/GoodOkRecords/rsschool-cv/cv
+https://GoodOkRecords.github.io/resschool-cv/cv
