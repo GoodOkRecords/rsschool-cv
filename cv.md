@@ -1,3 +1,5 @@
+![avatar](/images/1.jpg)
+
 #*__PERSONAL DATA__*#
 
 
@@ -14,7 +16,7 @@ Marital Status / Children           || Unmarried / None
 
 No. Passport / Expiry               || MC2475643 / 18.04.2023
 
-E-Mail:                             || [Gud123mura@gmail.com0](Gud123mura@gmail.com "My Email")
+E-Mail:                             || [Gud123mura@gmail.com](Gud123mura@gmail.com "My Email")
 
 Mobile:                             || +375259469793 Telegram
 
@@ -27,8 +29,47 @@ discord:                            || GoodOk#6975
 
 
 ##**Interests and Hobbies:**##
+
     +listening music
     +reading books
     +sport
 
 
+##**Personal qualities:**## 
+
+    +Punctual
+    +Hard-working
+    +Fast learner
+
+
+##**Professional Skills:**##
+
+*js basics
+            ```
+            function multiply(a, b){
+                return a*b;
+            }
+            ```
+
+
+##**EDUCATION-Institution**##   ||    ##**Year of Graduation/City/Country**##
+
+(MSCP)                          ||
+Minsk State College of          ||
+Printing                        ||    2017/Minsk/Belarus
+
+
+#**WORK EXPERIENCE**#
+
+**Company**                ||    Typography "Printcorp"
+
+**Position**               ||    Printer
+
+**Period**                 ||    2017 - 2018
+
+
+**Company**                ||    "Urban Group"
+
+**Position**               ||    Layout Designer
+
+**Period**                 ||    2019 - 2021
