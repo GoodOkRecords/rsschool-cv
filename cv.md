@@ -78,4 +78,4 @@ Printing                        ||    2017/Minsk/Belarus
 
 
 
-![photo](/images/2.jpg)
+![photo](/rsschool-cv/images/2.jpg)
