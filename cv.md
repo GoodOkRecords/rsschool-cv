@@ -74,3 +74,8 @@ Printing                        ||    2017/Minsk/Belarus
 **Position**               ||    Layout Designer
 
 **Period**                 ||    2019 - 2021
+
+
+
+
+![photo](/images/2.jpg)
